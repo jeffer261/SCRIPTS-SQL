@@ -1,4 +1,3 @@
-Comandos de SQL SERVER para o Dia a Dia
-
-Instruções diversas para o dia dia
+# Comandos para SQL SERVER
+**Comandos de SQL SERVER para o Dia a Dia**
 
