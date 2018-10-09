@@ -10,7 +10,7 @@
 
 - [Retorna Ult Dia mes] (https://github.com/jeffer261/SCRIPTS-SQL/blob/master/COMANDOS/Retorna_ultimo_dia_do_mes.sql)
 
-- [Operador Unpivot] (https://github.com/jeffer261/SCRIPTS-SQL/blob/master/COMANDOS/Exemplo_de_UNPIVOT.sql)
+- [Exemplo Unpivot] (https://github.com/jeffer261/SCRIPTS-SQL/blob/master/COMANDOS/Exemplo_de_UNPIVOT.sql)
 
 - [Exemplo CURSOR] (https://github.com/jeffer261/SCRIPTS-SQL/blob/master/COMANDOS/Exemplo_de_CURSOR.sql)
 
