@@ -14,4 +14,6 @@
 
 - [Exemplo CURSOR] (https://github.com/jeffer261/SCRIPTS-SQL/blob/master/COMANDOS/Exemplo_de_CURSOR.sql)
 
+- [Script Para Envio de E-mail] (https://github.com/jeffer261/Scripts-SQL/tree/master/COMANDOS/Script_Para_Envio_de_Email.sql)
+
 
